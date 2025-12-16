@@ -4,9 +4,9 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">
+<h3>
 My name is <b>Ishaan Kar</b> — a passionate Data & Automation Engineer from India 🇮🇳
-</p>
+</h3>
 
 <h2 align="left">About me</h2>
 
