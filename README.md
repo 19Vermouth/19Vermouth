@@ -5,10 +5,10 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <h3>
-My name is <b>Ishaan Kar</b> — a passionate Data & Automation Engineer from India 🇮🇳
+My name is <b>Ishaan Kar</b> — Data Engineering & Analytics enthusiast from India 🇮🇳  
 </h3>
 <h4>
-🎓 Pursuing B.E. in CSE (Design) at <b>Dayananda Sagar College of Engineering</b>, Bengaluru
+🎓 Pursuing B.E. in CSE (Design) @ <b>Dayananda Sagar College of Engineering</b>, Bengaluru
 </h4>
 
 
