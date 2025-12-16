@@ -8,7 +8,7 @@
 My name is <b>Ishaan Kar</b> — Data Engineering & Analytics enthusiast from India 🇮🇳  
 </h3>
 <h4>
-🎓 Pursuing B.E. in CSE (Design) @ <b>Dayananda Sagar College of Engineering</b>, Bengaluru
+🎓 Pursuing B.E. in CSE (Design) at <b>Dayananda Sagar College of Engineering</b>, Bengaluru
 </h4>
 
 
