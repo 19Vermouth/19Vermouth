@@ -15,15 +15,12 @@ My name is <b>Ishaan Kar</b> — a passionate Data & Automation Engineer from In
 <h2 align="left">About me</h2>
 
 <p align="left">
-  <b>📚 Learning:</b><br> Data Engineering | Cloud (OCI, Azure) | Advanced SQL | AI automation
+  <b>📚 Learning:</b>  Data Engineering | Cloud (OCI, Azure) | Advanced SQL | AI automation
   <br>
   
-🎯 <b>Goals:</b><br>
-Build scalable data pipelines & cloud-native systems that turn data into real-world impact
+🎯 <b>Goals:</b> Build scalable data pipelines & cloud-native systems that turn data into real-world impact
 
-🎲 <b>Fun fact:</b><br>
-I enjoy turning messy data into clean insights — and yes, I think I’m funny 😄
-</p>
+🎲 <b>Fun fact:</b> I enjoy turning messy data into clean insights — and yes, I think I’m funny 😄 </p>
 
 <h3 align="left">
 💻 I code with Python, SQL, ETL pipelines, and questionable sleep schedules
