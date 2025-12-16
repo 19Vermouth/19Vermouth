@@ -7,6 +7,10 @@
 <h3>
 My name is <b>Ishaan Kar</b> — a passionate Data & Automation Engineer from India 🇮🇳
 </h3>
+<h4>
+🎓 Pursuing B.E. in CSE (Design) at <b>Dayananda Sagar College of Engineering</b>, Bengaluru
+</h4>
+
 
 <h2 align="left">About me</h2>
 
