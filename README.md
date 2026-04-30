@@ -20,10 +20,9 @@ My name is <b>Ishaan Kar</b> — Data Engineering & Analytics enthusiast from In
   
 🎯 <b>Goals:</b> Build scalable data pipelines & cloud-native systems that turn data into real-world impact
 
-🎲 <b>Fun fact:</b> I enjoy turning messy data into clean insights — and yes, I think I’m funny 😄 </p>
 
 <h3 align="left">
-💻 I code with Python, SQL, ETL pipelines, and questionable sleep schedules
+💻 I code with Python, SQL, ETL pipelines 
 </h3>
 
 
