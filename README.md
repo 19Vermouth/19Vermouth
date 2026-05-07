@@ -103,7 +103,7 @@ I'm <b>Ishaan Kar</b> — a Data Engineering & Analytics enthusiast from India �
 
 <p align="left">
 🔗 GitHub: <a href="https://github.com/19Vermouth">github.com/19Vermouth</a><br>
-💼 LinkedIn: Add your LinkedIn URL here<br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/ishaankar/">linkedin.com/in/ishaankar</a><br>
 📧 Email: ishaankar27@gmail.com
 </p>
 
